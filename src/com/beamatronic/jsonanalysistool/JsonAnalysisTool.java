@@ -323,7 +323,7 @@ public class JsonAnalysisTool {
 		int    INITIALSHELLHEIGHT =  818;
 
 		String SHELLTEXT          = "JSON Analysis Tool";
-		String initialURL         = "http://hostname:port/url";
+		String initialURL         = "https://api.github.com/repos/beamatronic/JsonAnalysisTool/stats/participation";
 		String INITIALBIGTEXT     = "This is where the JSON data\nfrom the URL will appear\n";
 		String DEFAULTCOLUMNLABELEXPRESSION = "$.rows[*].value.time";
 		String DEFAULTDATAEXPRESSION        = "$.rows[*].value.memory";
