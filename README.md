@@ -17,6 +17,6 @@ Dependencies
 
 - https://github.com/jayway/JsonPath
 - http://www.swtchart.org/ see also http://sourceforge.net/projects/swt-chart/files/
-- !["Apache HTTPClient"](https://hc.apache.org/downloads.cgi "Apache HTTPClient")
+- ["Apache HTTPClient"](https://hc.apache.org/downloads.cgi)
 - Jackson
 
