@@ -12,3 +12,11 @@ A graphing widget will then graph the XY values.
 I'm looking for a good public url that returns some good data but here it is with some github repo stats of a popular repository. 
 
 ![A screen shot](/screenshots/JsonAnalysisToolScreenShot.png?raw=true "Screen shot")
+
+Dependencies
+
+- https://github.com/jayway/JsonPath
+- http://www.swtchart.org/
+- Apache HTTPClient
+- Jackson
+
