@@ -15,8 +15,8 @@ I'm looking for a good public url that returns some good data but here it is wit
 
 Dependencies
 
-- https://github.com/jayway/JsonPath
-- http://www.swtchart.org/ see also http://sourceforge.net/projects/swt-chart/files/
-- ["Apache HTTPClient"](https://hc.apache.org/downloads.cgi)
-- Jackson
+- [JsonPath](https://github.com/jayway/JsonPath)
+- [SWT Chart](http://www.swtchart.org) see also http://sourceforge.net/projects/swt-chart/files/
+- [Apache HTTPClient](https://hc.apache.org/downloads.cgi)
+- [Jackson](http://wiki.fasterxml.com/JacksonDownload)
 
