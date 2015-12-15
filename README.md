@@ -16,7 +16,7 @@ I'm looking for a good public url that returns some good data but here it is wit
 Dependencies
 
 - https://github.com/jayway/JsonPath
-- http://www.swtchart.org/
-- Apache HTTPClient
+- http://www.swtchart.org/ see also http://sourceforge.net/projects/swt-chart/files/
+- !["Apache HTTPClient"](https://hc.apache.org/downloads.cgi "Apache HTTPClient")
 - Jackson
 
